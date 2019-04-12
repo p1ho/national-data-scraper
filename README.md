@@ -43,4 +43,4 @@ Simply run
 ```
 $ python main.py
 ```
-I've moved some settings into the file `settings.py`, this is just for separation of concerns. There will likely more things added to settings.py if this thing requires more flexibility (such as number of threads, etc)
+I've moved some settings into the file `settings.py`, this is just for separation of concerns. There will likely be more things added to `settings.py` if this thing requires more flexibility (such as number of threads, etc)
